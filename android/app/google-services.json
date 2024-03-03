@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802972165840",
+    "project_id": "vidyavikalp-8f130",
+    "storage_bucket": "vidyavikalp-8f130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802972165840:android:899b1f83d4df942cf760d5",
+        "android_client_info": {
+          "package_name": "com.example.vidyavikalp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzI0aPfzCmIUS0KOPrXt6aQjo0xvE1Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
